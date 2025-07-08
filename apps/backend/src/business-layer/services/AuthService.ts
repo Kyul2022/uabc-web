@@ -59,3 +59,4 @@ export default class AuthService {
     })
   }
 }
+const unusedVariableToFailBiome = "This will cause Biome to fail due to unused variable";
