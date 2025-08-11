@@ -29,7 +29,7 @@
     "@tanstack/react-query-devtools": "5.81.5",
     "@yamada-ui/carousel": "2.1.13",
     "@yamada-ui/lucide": "1.10.5",
-    "@yamada-ui/react": "1.7.7",
+    "@yamada-ui/react": "1.7.8",
     "next": "15.3.5",
     "react": "19.1.0",
     "react-dom": "19.1.0",

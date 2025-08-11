@@ -18,7 +18,7 @@
     "@hookform/resolvers": "3.10.0",
     "@repo/ui": "workspace:*",
     "@yamada-ui/lucide": "1.10.5",
-    "@yamada-ui/react": "1.7.7",
+    "@yamada-ui/react": "1.7.8",
     "next": "15.3.5",
     "react": "19.1.0",
     "react-dom": "19.1.0",
